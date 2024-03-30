@@ -11,7 +11,7 @@ If you are an application developer who is creating smart contracts in Solidity 
 
 Cronos uses Proof of Authority (POA) consensus, a  streamlined and scalable consensus mechanism derived from the Tendermint POS consensus.&#x20;
 
-There are currently 27 validators supporting the Cronos network, all leading infrastructure providers (see the [list here](https://cronos.org/validators)).
+There are currently 33 validators supporting the Cronos network, all leading infrastructure providers (see the [list here](https://cronos.org/validators)).
 
 #### **How can I become a Cronos validator?**&#x20;
 
@@ -31,4 +31,8 @@ If the limit is exceeded, the IP gets blocked for 1 minute. If you are expecting
 
 #### **If I increase the gas price, does it help to speed up my transaction?**&#x20;
 
-The current mempool setting works in a [priority gas fee manner](module\_overview/module\_feemarket.md), where transaction prioritization happens based on the gas price or priority fee.
+Yes. The current mempool setting works in a [priority gas fee manner](module\_overview/module\_feemarket.md), where transaction prioritization happens based on the gas price or priority fee.
+
+**Is there a bug bounty?**
+
+Yes, with HackenProof: [https://hackenproof.com/cronos](https://hackenproof.com/cronos)
