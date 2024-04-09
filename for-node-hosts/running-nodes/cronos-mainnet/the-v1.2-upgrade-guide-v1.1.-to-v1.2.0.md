@@ -26,7 +26,7 @@ It is critically important for validator operators to back up the `.cronos/data/
 
 ## Step 1 - Get the `v1.2.0` binary
 
-To simplify the following step, we will be using **Linux-x86** for illustration. Binary for Mac Windows with different DB and architecture are also available [here](https://github.com/crypto-org-chain/cronos/releases/tag/v1.1.0).
+To simplify the following step, we will be using **Linux-x86** for illustration. Binary for Mac Windows with different DB and architecture are also available [here](https://github.com/crypto-org-chain/cronos/releases/tag/v1.2.0).
 
 *   Terminate the `cronosd`; afterwards, download the `1.2.0` released binaries from github:
 
