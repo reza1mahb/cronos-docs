@@ -211,7 +211,7 @@ Furthermore, you may want to run full nodes as sentries (see [Tendermint](https:
 
 
 
-Once `cronosd` has been configured, we are ready to start the ode and sync the blockchain data:
+Once `cronosd` has been configured, we are ready to start the node and sync the blockchain data:
 
 * Start cronosd, e.g.:
 
