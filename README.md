@@ -101,4 +101,4 @@ Code repository: [Github](https://github.com/crypto-org-chain/cronos)
 
 **Brand assets:**
 
-{% file src=".gitbook/assets/cronos logos.zip" %}
+[media-brand-kit.md](resources/media-brand-kit.md "mention")

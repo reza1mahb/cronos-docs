@@ -143,3 +143,7 @@
   * [Connect a crypto wallet](cronos-zkevm/getting-started/connect-a-crypto-wallet.md)
   * [Acquire or Bridge TCRO](cronos-zkevm/getting-started/acquire-or-bridge-tcro.md)
   * [Develop smart contracts and dapps](cronos-zkevm/getting-started/develop-smart-contracts-and-dapps.md)
+
+## Resources
+
+* [Media / brand kit](resources/media-brand-kit.md)
