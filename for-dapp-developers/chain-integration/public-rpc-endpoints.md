@@ -61,6 +61,9 @@ Mainnet
 
 ### Commercial node providers
 
+* Moralis:
+  * [Moralis Nodes](https://moralis.io/nodes/?utm_source=cronos-docs&utm_medium=partner-docs)
+  * [Moralis Youtube Tutorials](https://www.youtube.com/@MoralisWeb3)
 * Blockdaemon:
   * [Blockdaemon landing page](https://blockdaemon.com/protocols/cronos/)
 * RockX:&#x20;
