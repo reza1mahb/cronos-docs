@@ -77,17 +77,18 @@
 ## CRONOS PLAY
 
 * [🎮 Introduction](cronos-play/cronos-play.md)
-* [Unity](cronos-play/unity/README.md)
-  * [EVM](cronos-play/unity/scripts.md)
-  * [ERC1155](cronos-play/unity/scripts-1.md)
-  * [ERC721](cronos-play/unity/scripts-2.md)
-  * [ERC20](cronos-play/unity/scripts-3.md)
-  * [Custom RPC](cronos-play/unity/scripts-4.md)
-  * [Login Example](cronos-play/unity/login-example.md)
+* [Unity Engine](cronos-play/unity/README.md)
+  * [Current Version](cronos-play/unity/current-version.md)
+  * [Legacy Version](cronos-play/unity/legacy-version/README.md)
+    * [EVM](cronos-play/unity/legacy-version/scripts.md)
+    * [2D Game Example](cronos-play/unity/legacy-version/play.md)
+    * [Login Example](cronos-play/unity/legacy-version/login-example.md)
+    * [Custom RPC](cronos-play/unity/legacy-version/scripts-4.md)
+    * [ERC20](cronos-play/unity/legacy-version/scripts-3.md)
+    * [ERC721](cronos-play/unity/legacy-version/scripts-2.md)
+    * [ERC1155](cronos-play/unity/legacy-version/scripts-1.md)
   * [Useful Links](cronos-play/unity/useful-links.md)
-  * [2D Game Example](cronos-play/unity/play.md)
-* [Cronos Play FAQ](cronos-play/cronos-play-faq.md)
-* [Unreal Engine Plugin](cronos-play/getting-started\_unreal/README.md)
+* [Unreal Engine](cronos-play/getting-started\_unreal/README.md)
   * [Installation and Enabling](cronos-play/getting-started\_unreal/download.md)
   * [Working with Blueprint](cronos-play/getting-started\_unreal/quick-start/README.md)
     * [Actors and Blueprint Classes](cronos-play/getting-started\_unreal/quick-start/actors-and-blueprint-classes.md)
@@ -109,6 +110,7 @@
   * [Demo](cronos-play/getting-started\_unreal/demo.md)
 * [Cronos Play C++ SDK](cronos-play/getting-started\_cpp.md)
 * [Crypto.com Pay Integration](cronos-play/crypto.com-pay-integration.md)
+* [Cronos Play FAQ](cronos-play/cronos-play-faq.md)
 
 ## Block Explorers
 
