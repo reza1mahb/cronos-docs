@@ -55,6 +55,16 @@ This demo shows the basic ERC721/ERC1155 usage on a first-character shooting gam
 * Windows: Visual Studio 2019 or later
 * Mac: XCODE 13.2.1
 * Unreal Engine: 5.x
+* Plugin: Cronos Play For Unreal Engine in Epic Marketplace\
+
+
+### [walletconnect](https://github.com/cronos-labs/play-unreal-demo/tree/main/walletconnect)&#x20;
+
+This demo shows walletconnect 2.0 signing with blueprint on unreal engine 5.4
+
+* Windows: Visual Studio 2022 or later
+* Mac: XCODE 15
+* Unreal Engine: 5.x
 * Plugin: Cronos Play For Unreal Engine in Epic Marketplace
 
 
