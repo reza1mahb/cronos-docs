@@ -44,7 +44,7 @@ Cronos is the leading EVM-compatible chain build on the Cosmos SDK.
 
 Cronos aims to massively scale DeFi and GameFi by providing developers with the ability to rapidly port dApps from Ethereum and EVM-Compatible chains, while also benefiting from the multi-chain thesis of the Cosmos ecosystem.
 
-Cronos is powered by the Cronos ($CRO) cryptocurrency for the payment of transaction fees. Cronos runs separately from the [Crypto.org Chain](https://crypto.org/docs/), a Cosmos proof-of-stake chain also powered by $CRO.
+Cronos is powered by the Cronos ($CRO) cryptocurrency for the payment of transaction fees. Cronos runs separately from the [Cronos POS Chain](https://cronos-pos.org/), a Cosmos proof-of-stake chain also powered by $CRO.
 
 ## Ethermint
 
