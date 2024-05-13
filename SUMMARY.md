@@ -140,11 +140,6 @@
 ## Cronos zkEVM
 
 * [Cronos zkEVM](cronos-zkevm/cronos-zkevm.md)
-* [zkEVM Litepaper v1.0](cronos-zkevm/zkevm-litepaper-v1.0.md)
-* [Getting Started](cronos-zkevm/getting-started/README.md)
-  * [Connect a crypto wallet](cronos-zkevm/getting-started/connect-a-crypto-wallet.md)
-  * [Acquire or Bridge TCRO](cronos-zkevm/getting-started/acquire-or-bridge-tcro.md)
-  * [Develop smart contracts and dapps](cronos-zkevm/getting-started/develop-smart-contracts-and-dapps.md)
 
 ## Resources
 
