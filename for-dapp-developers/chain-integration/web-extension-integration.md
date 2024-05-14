@@ -12,7 +12,9 @@ Cronos chain is supported by the following self-custodial wallets:
 
 Crypto.com DeFi Wallet, Trust Wallet and MetaMask have mobile apps that include in-app dApp browsers. Users can access dApps on the go via these in-app browsers. We recommend that all dApp developers integrate with these 3 wallets at least, and more if possible.
 
-[Follow this link](https://github.com/kentimsit/cronos-wallet-connections-v3) for a basic example on how to implement the main wallet connection methods available to Cronos dApp developers.
+## Basic tutorial
+
+[Follow this link](web3-wallet.md) for a basic example on how to implement the main wallet connection methods available to Cronos dApp developers.
 
 ## Crypto.com DeFi Wallet
 

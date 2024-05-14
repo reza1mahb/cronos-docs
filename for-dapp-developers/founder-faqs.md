@@ -39,7 +39,7 @@ Don’t forget to follow these Twitter accounts to receive key announcements:
 
 * Step 1:
   * The first step is to implement login via the Crypto .com Defi Wallet’s SDK, using the DeFiWeb3Connector.
-  * See [this tutorial](https://github.com/kentimsit/cronos-wallet-connections) on how to implement wallet connections. The code sample uses [Web3 Wallet](https://web3-wallet.github.io/web3-wallet/docs/getting-started), a wallet connection library used by many Cronos dapps.
+  * See [this tutorial](chain-integration/web3-wallet.md) on how to implement wallet connections. The code sample uses [Web3 Wallet](https://web3-wallet.github.io/web3-wallet/docs/getting-started), a wallet connection library used by many Cronos dapps.
   * For more details, you can refer to this repository for documentation and usage: [https://github.com/crypto-com/deficonnect-monorepo/wiki/Chrome-Extension-Wallet-Integration](https://github.com/crypto-com/deficonnect-monorepo/wiki/Chrome-Extension-Wallet-Integration).
   * You cannot proceed to Step 2 until you have checked that your dApp offers a functional connection to the Crypto com DeFi Wallet’s Browser Extension in a desktop browser ([here is the link to the browser extension in the Chrome store](https://chrome.google.com/webstore/detail/cryptocom-wallet-extensio/hifafgmccdpekplomjjkcfgodnhcellj)).
 * Step 2:
@@ -134,5 +134,5 @@ Don’t forget to follow these Twitter accounts to receive key announcements:
 
 **How can I connect my Dapp to commonly used crypto wallets like MetaMask, Crypto .com DeFi Wallet, or Trust Wallet?**
 
-* See this [tutorial](https://github.com/kentimsit/cronos-wallet-connections).
+* See this [tutorial](chain-integration/web3-wallet.md).
 
