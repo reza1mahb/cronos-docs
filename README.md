@@ -48,26 +48,28 @@ Please browse the navigation bar of this documentation where you can find refere
 
 ## What is Cronos?
 
-[Cronos](https://cronos.org/) ([cronos.org](http://cronos.org)) is the leading Ethereum-compatible layer 1 blockchain network built on the Cosmos SDK, supported by [Crypto.com](http://crypto.com) and more than 500 app developers and partners. Today, the #CROfam ecosystem represents an addressable user base of more than 80 million people worldwide. Our mission is to make it easy and safe for the next billion crypto users to adopt Web3, with a focus on decentralized applications in the DeFi, NFTs and GameFi verticals.
+Cronos (cronos.org) is a leading blockchain ecosystem that has partnered with Crypto.com and more than 500 application developers and contributors representing an addressable user base of more than a hundred millions of people around the world. Cronos' mission is to make it easy and safe for the next billion crypto users to adopt self-custody in Web3, with a focus on Decentralized Finance and Gaming.
 
-Shortly after launch in November 2021, Cronos achieved a top 10 position amongst all chains by TVL. It is home to more than 1 million users and 500+ dApps.
+The Cronos universe encompasses 3 chains: **Cronos EVM**, the leading Ethereum-compatible blockchain built on the Cosmos SDK; **Cronos POS**, a leading Cosmos chain for payments and NFTs; and **Cronos zkEVM**, a new high performance layer 2 network secured by Ethereum.
+
+Cronos ranks among the top 15 blockchain ecosystems, encompassing more than 6 billion dollars of user assets. Since inception, it has securely settled more than 100 million transactions.
 
 Transaction fees are paid in Cronos ($CRO), a blue chip cryptocurrency.
 
-The Cronos ecosystem is supported by [Cronos Labs](https://cronoslabs.org/), the start-up accelerator of Cronos chain.
+Cronos is supported by Cronos Labs, a Web3 start-up accelerator focused on DeFi, GameFi, and the development of the Cronos ecosystem.
 
-## Why build on Cronos?
+## Why build on Cronos EVM?
 
 If you are a Web3 application creator, there are 3 main reasons to build on Cronos:
 
 * EVM compatible – Solidity and all the EVM tools just work out of the box.
 * Strategic partnership with [Crypto.com](http://crypto.com/) – easy on-ramp to your dapp.
-* \#CROFam - a highly engaged user and builder community of >80 million people worldwide, who are keen to try the latest and greatest apps.
+* \#CROFam - a highly engaged user and builder community of >100 million people worldwide, who are keen to try the latest and greatest apps.
 
 As an application founder/developer on Cronos, you can leverage:
 
 * Wrapped versions of most of the world’s top 50 cryptocurrencies
-* 30+ leading wallets (including Crypto.com Defi Wallet, MetaMask, Trust Wallet)
+* 30+ leading wallets (including Crypto.com Defi Wallet, Rabby, MetaMask, Trust Wallet)
 * Ethermint, a Ethereum Virtual Machine module built by the open-source Cosmos SDK community.
 * IBC cross-chain connectivity to Cosmos chains.
 * Convenient Ethereum developer tools (Solidity, Truffle, Hardhat, OpenZeppelin, Web3.js, ethers.js, ChainSafe Gaming SDK, etc.).
