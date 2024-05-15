@@ -48,7 +48,7 @@ Please browse the navigation bar of this documentation where you can find refere
 
 ## What is Cronos?
 
-Cronos (cronos.org) is a leading blockchain ecosystem that has partnered with Crypto.com and more than 500 application developers and contributors representing an addressable user base of more than a hundred millions of people around the world. Cronos' mission is to make it easy and safe for the next billion crypto users to adopt self-custody in Web3, with a focus on Decentralized Finance and Gaming.
+Cronos (cronos.org) is a leading blockchain ecosystem that has partnered with Crypto.com and more than 500 application developers and contributors representing an addressable user base of more than a hundred million people around the world. Cronos' mission is to make it easy and safe for the next billion crypto users to adopt self-custody in Web3, with a focus on Decentralized Finance and Gaming.
 
 The Cronos universe encompasses 3 chains: **Cronos EVM**, the leading Ethereum-compatible blockchain built on the Cosmos SDK; **Cronos POS**, a leading Cosmos chain for payments and NFTs; and **Cronos zkEVM**, a new high performance layer 2 network secured by Ethereum.
 
