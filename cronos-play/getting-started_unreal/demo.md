@@ -58,7 +58,7 @@ This demo shows the basic ERC721/ERC1155 usage on a first-character shooting gam
 * Plugin: Cronos Play For Unreal Engine in Epic Marketplace\
 
 
-### [walletconnect](https://github.com/cronos-labs/play-unreal-demo/tree/main/walletconnect)&#x20;
+## [walletconnect](https://github.com/cronos-labs/play-unreal-demo/tree/main/walletconnect)&#x20;
 
 This demo shows walletconnect 2.0 signing with blueprint on unreal engine 5.4
 

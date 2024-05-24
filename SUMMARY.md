@@ -97,6 +97,7 @@
     * [Connect Defi Wallet with URI](cronos-play/getting-started\_unreal/quick-start/connect-defi-wallet-with-uri.md)
     * [Connect Wallets with QR Code](cronos-play/getting-started\_unreal/quick-start/connect-wallets-with-qr-code.md)
     * [Connect WalletConnect Step by Step](cronos-play/getting-started\_unreal/quick-start/walletconnect.md)
+    * [WalletConnect 2.0 and Unreal Engine 5: Hello World Example](cronos-play/getting-started\_unreal/quick-start/walletconnect-2.0-and-unreal-engine-5-hello-world-example.md)
     * [Wallet](cronos-play/getting-started\_unreal/quick-start/wallet.md)
     * [ERC20](cronos-play/getting-started\_unreal/quick-start/erc20.md)
     * [ERC721](cronos-play/getting-started\_unreal/quick-start/erc721.md)
