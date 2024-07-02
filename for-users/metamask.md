@@ -58,7 +58,7 @@ First, you will need to connect your MetaMask wallet to the Cronos network:
 
 {% tab title="Testnet" %}
 * **Name:** Cronos testnet
-* **New RPC URL:** `https://evm-t3.cronos.org`![](<../.gitbook/assets/Metamask Config with new explorer link>)
+* **New RPC URL:** `https://evm-t3.cronos.org`
 * **Chain ID:**`338`
 * **Symbol**:`tCRO`
 * **Block explorer URL:** `https://explorer.cronos.org/testnet`
