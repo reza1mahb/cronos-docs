@@ -30,7 +30,7 @@ If you are sending large numbers of transactions from your backend, consider set
   * [https://grpc.cronos.org/](http://grpc.cronos.org/)
 * **Swagger Playground**
   * [https://cronos.org/swagger?network=mainnet](https://cronos.org/swagger?network=mainnet)
-* **Swagger Rest API**&#x20;
+* **Swagger Rest API**
   * [https://rest.cronos.org/swagger/](https://rest.cronos.org/swagger/)
 {% endtab %}
 
@@ -62,18 +62,18 @@ Mainnet
 ### Commercial node providers
 
 * Moralis:
-  * [Moralis Nodes](https://moralis.io/nodes/?utm_source=cronos-docs&utm_medium=partner-docs)
+  * [Moralis Nodes](https://moralis.io/nodes/?utm\_source=cronos-docs\&utm\_medium=partner-docs)
   * [Moralis Youtube Tutorials](https://www.youtube.com/@MoralisWeb3)
 * Blockdaemon:
   * [Blockdaemon landing page](https://blockdaemon.com/protocols/cronos/)
-* RockX:&#x20;
+* RockX:
   * [Guide to Cronos Free Access Node](https://help.rockx.com/en/articles/6153885-guide-to-cronos-free-access-node)
   * [Cronos Blockchain API for Web3 Builders](https://access.rockx.com/product/cronos-blockchain-api-for-web3-builders)
 * Chainstack:
   * [Cronos documentation](https://docs.chainstack.com/operations/cronos/)
   * [Get started with Cronos Node on Chainstack](https://chainstack.com/build-better-with-cronos/)
   * [Build lottery smart contract on Cronos blockchain with Chainstack](https://chainstack.com/lottery-smart-contract-on-cronos-blockchain/)
-  * [Chainstack announces support for Cronos ](https://chainstack.com/chainstack-announces-support-for-cronos/)
+  * [Chainstack announces support for Cronos](https://chainstack.com/chainstack-announces-support-for-cronos/)
 * GetBlock:
   * [Cronos Shared Nodes](https://getblock.io/nodes/cro/)
 * Automata:
@@ -82,4 +82,7 @@ Mainnet
   * [Distributed RPC Service](https://public.blockpi.io/)
 * All That Node:
   * [Cronos Nodes](https://www.allthatnode.com/cronos.dsrv)
+*   Allnodes:
+
+    * [RPC Gateway to Cronos](https://cronos.publicnode.com/)
 
