@@ -11,7 +11,6 @@
 * [🔥 Crypto Wallets](for-users/crypto-wallets.md)
 * [🦊 MetaMask Configuration](for-users/metamask.md)
 * [🦁 Brave Wallet](for-users/brave-wallet.md)
-* [👮 Key Principles for Wallet Security](for-users/key-principles-for-wallet-security.md)
 * [🌉 Bridges](for-users/bridge/README.md)
   * [From the Crypto.com App and Exchange](for-users/bridge/app\_n\_ex/README.md)
     * [From the Crypto.com App](for-users/bridge/app\_n\_ex/cdcapp.md)
@@ -22,6 +21,7 @@
   * [FAQs for ERC20-only transaction Support](for-users/bridge/faqs-for-erc20-only-transaction-support.md)
 * [🚰 Testnet Faucet](for-users/testnet-faucet.md)
 * [💡 Tips & FAQs](for-users/tips-and-faqs.md)
+* [👮 Key Principles for Wallet Security](for-users/key-principles-for-wallet-security.md)
 * [GasTracker](https://cronos.org/gastracker)
 
 ## FOR DAPP DEVELOPERS
