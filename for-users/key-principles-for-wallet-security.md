@@ -1,0 +1,176 @@
+# 👮 Key Principles for Wallet Security
+
+Ensuring the security of your crypto wallet is crucial to protect your digital assets from prevalent and sophisticated scams. This guide outlines essential practices to enhance the security of your wallet and prevent potential loss of assets.
+
+## Key Practices for Wallet Security
+
+* **Keep Your Recovery Phrase Safe and Private:** Your recovery phrase is the master key to your crypto wallet. Store it securely and never share it with anyone.&#x20;
+* **Lock Your Crypto Wallet When Not in Use:** Always lock your wallet to prevent unauthorised access.
+* **Revoke Access to Unused dApps:** Regularly review and revoke permissions granted to dApps you no longer use.
+* **Avoid Public WiFi:** Never access your wallet over public WiFi networks to prevent potential interceptions by hackers. If you must use Public WiFi, then use a Virtual Private Network (VPN).
+
+## Understanding Crypto Wallets
+
+A crypto wallet allows you to store and manage your digital assets securely. At its core, it manages and secures the **Private Key** - an alphanumeric code that gives you ownership of your crypto assets. The Private Key **should be kept private**. The corresponding **Public Key** derived from the Private Key, is used to receive cryptocurrencies, NFT’s, and other digital assets.
+
+The **Private Key** as well as the **Seed Phrase** (covered later) are the two crucial pieces of information. Keeping these safe ensures the security of your assets.\
+
+
+## Types of Wallets
+
+### Hot Wallets vs Cold Wallets
+
+**Hot Wallets:** Internet-connected wallets are typically software-based, available as mobile or desktop applications. Hot Wallets store and manage your Private Key. They are convenient but are susceptible to cyber threats.&#x20;
+
+Examples include:&#x20;
+
+* [Crypto.com DeFi Wallet](https://crypto.com/defi-wallet)
+* [Crypto.com App](https://crypto.com/eea/app)
+* [MetaMask](https://metamask.io/)
+* [Keplr Wallet](https://www.keplr.app/)
+
+**Security Tips for Hot Wallets**
+
+* Keep your software up-to-date: operating system, wallet software updates, etc.
+* Use antivirus software: Install reputable antivirus software to protect against malware.
+* Use strong passwords: Create complex passwords and use a password manager.
+* Enable two-factor authentication (2FA): this adds an extra layer of security by requiring a second form of verification.
+
+**Cold Wallets:** Cold wallets store your private key offline, offering greater security as they are not exposed to the internet and online threats. These can be physical devices like hardware wallets or even paper wallets. However, they can be lost, stolen, or damaged. Examples include:
+
+* [Ledger](https://www.ledger.com/)
+* [Trezor](https://trezor.io/)
+* [NGRAVE](https://ngrave.io/)
+
+**Security Tips for Cold Wallets**
+
+* Buy from trusted sources: Purchase hardware wallets directly from manufacturers or trusted retailers to avoid tampered devices.
+* Keep firmware up-to-date: Regularly update your wallet’s firmware for improved security and functionality.
+* Protect the recovery phrase: Never share the recovery phrase, as it grants control over your cryptocurrencies. Store it securely offline.
+* Set a strong PIN: Use a strong PIN to safeguard your device from unauthorised access. Avoid easily guessable PINs.
+* Verify addresses: Double-check the recipient’s address to avoid malware altering the copied addresses.
+* Confirm transactions on the device: Always verify transaction details on the hardware wallet’s screen before confirming.
+* Secure your wallet physically: Store your hardware wallet in a safe place when not in use, treat it like a family heirloom.
+* Consider using a passphrase: Some wallets offer an additional passphrase for enhanced security. Use with caution as forgetting it can lead to permanent loss of access.
+* Use trusted computers: Connect your hardware wallet only to computers with good security measures. Avoid convenience-driven connections.
+* Understand the risks: Be aware of risks such as physical theft, phishing attacks, inadequate backups, forgotten PINs or recovery phrases, device damage, firmware vulnerabilities, and address verification. Take precautions to mitigate these risks.
+
+## Self-Custody vs. Hosted Wallets
+
+**Hosted Wallets:** These wallets are usually provided and managed by centralised crypto exchanges (CEX). The exchange holds the private key, meaning they technically own & control the assets. E.g. the Crypto.com App ([https://crypto.com/uk/app](https://crypto.com/uk/app))
+
+**Self-Custody Wallets:** In self-custody wallets you hold/own the private key, giving you full control over the digital assets. Crypto.com DeFi Wallet is an example of a self-custody solution. ([https://crypto.com/uk/defi-wallet](https://crypto.com/uk/defi-wallet))&#x20;
+
+
+
+## Critical Data to Secure
+
+**Seed Phrases:** Along with the Private Key (mentioned above), the seed phrase is a series of words generated by your wallet that can be used to generate & recover your Private Key/s. **Protecting your seed phrase is as crucial as securing your private key**. Never share it, keep it private and store it securely.
+
+**Security Tools and Techniques**
+
+1. **Password Managers:** Use them to create and store strong, unique passwords.
+2. **Two-Factor Authentication (2FA):** Adds an extra layer of security by requiring a second form of verification.
+3. **A Physical Security Key (2FA):** Consider using a hardware security key as part of your 2FA solution.
+4. **Virtual Private Network (VPN):** Use a VPN to encrypt your internet connection, especially on public WiFi.
+
+## Avoiding Common Scams
+
+Understanding and recognising common scams is crucial for protecting your crypto assets. Here are some prevalent scams and tips on how to avoid them:
+
+### **1. Rug-pulls**
+
+Rug Pulls are schemes where scammers create tokens, inflate their value through promotion, and then sell off their holdings, leaving investors with worthless tokens.
+
+**How to avoid Rug-pulls**
+
+* Research the token’s history and distribution.
+* Look for aggressive promotion or unusual patterns in token distribution.
+* Evaluate the token’s utility and purpose.
+
+### **2. Airdrop Scams**
+
+Airdrop scams involve malicious tokens being sent to your wallet, tricking you into interacting with phishing sites or giving permissions to your wallet that allow scammers to steal your assets.
+
+**How to avoid Airdrop Scams**
+
+* Never enter your Private Key and/ or Recovery Phrase on any websites.
+* Be cautious of unsolicited tokens and do not interact with them.
+* Verify the legitimacy of the token and its contract address.
+
+### **3. Dusting Attack**
+
+Dusting attack involves sending a small amount of cryptocurrency, referred to as dust, to multiple crypto wallet addresses. These transactions are often sent at similar intervals or in quick succession and may involve tiny fractions of a cryptocurrency unit. The attack aims to connect the receiver's addresses with other addresses, potentially revealing their real-world identity and their links to centralised exchanges or other platforms.
+
+How to avoid Dusting Attacks
+
+* Use separate “Burner Wallets” to deposit crypto dust you receive.
+* Use a hierarchical-deterministic (HD) wallet. This type of wallet creates a new wallet address for each transaction making it more difficult to track.
+* Ignore unknown or unanticipated tokens, if you received some unknown or unanticipated tokens in your wallet, it’s best to ignore and not interact with the tokens or linked addresses.&#x20;
+* Only interact with AirDrops from official and legitimate projects. Avoid Airdrops from unfamiliar sources.&#x20;
+* Hide small balances and non-listed tokens to help shield yourself. Most wallets have features to “Hide small balances” and “Hide non-listed tokens” utilise them to reduce clutter and potential risk.
+* Refrain from sharing any personal details alongside your wallet address.
+
+### **4. Phishing Scams**
+
+Phishing is a tactic that targets the user’s identity, aiming to obtain private keys, seed phrases, and/or login credentials. Scammers use fraudulent websites, emails, or texts to deceive individuals into revealing their private data.
+
+Phishing websites mimic the look and feel of a legitimate cryptocurrency exchange or wallet, leading users to believe they are interacting with a trustworthy platform.
+
+Phishing emails or texts trick users into installing malware or downloading malicious software that can compromise their computer or device. These malicious software can lead to the theft of private keys, seed phrases, or other sensitive information.
+
+**How to avoid Phishing Scams**
+
+* Verify the authenticity of emails and websites. Check the sender's email address and the website's URL for any discrepancy like spelling errors, typos, and misspellings in the domain name.
+* Enable **two-factor authentication (2FA)** on your cryptocurrency wallets and exchanges.
+* Avoid clicking on links or downloading attachments from unknown senders, especially if they request sensitive information or ask you to update your account details.
+* Keep your operating system, wallet software and Antivirus updated.
+* Use a Password Manager to store your cryptocurrency wallet passwords and passphrases securely.
+* Use a hardware wallet to store and manage your private key offline where it's less susceptible to phishing attacks.
+* Regularly backup your seed phrase and store it in a secure location. Safety Deposit Boxes are great storage options.
+* Be cautious of offers that seem too good to be true. Adverts offering high-return investments or promising large sums of cryptocurrency could be scams designed to lure you into revealing your sensitive information.
+
+### **5. Wallet Drainer, Signature Phishing and Ice Phishing Scams**
+
+Scammers use various tactics to drain wallets and steal funds. Wallet drainer, signature phishing, and ice phishing scams are just a few common methods:
+
+**Wallet Drainer Scams:** involve tricking users into signing a fraudulent transaction or approving a malicious contract, which grants the scammer access to their wallet and allows them to drain their funds. These attacks often occur through social engineering tactics such as:
+
+* Phishing emails or messages.&#x20;
+* Fake websites mimicking legitimate services.&#x20;
+* Unsolicited offers or promotions.
+* Fake airdrops or giveaways.
+* Malicious browser extensions or software.
+
+**Signature Phishing Scams:** Signature phishing scams are a subtype of wallet drainer attacks that focus on obtaining a victim's signature approval for a malicious transaction. Scammers may use fake pop-ups, notifications, or websites to trick users into approving a transaction that grants the attacker access to their wallet.
+
+**Ice Phishing Scams:** Ice phishing scams (also known as token approval scams) are a specific type of attack that relies on a user's willingness to approve a token transaction. The scammer creates a phishing website that mimics a legitimate crypto service and tricks the user into approving a token transaction, granting the attacker access to their wallet.
+
+**How to avoid these attacks**
+
+* Be cautious when connecting your wallet to external websites or services.
+* Verify the authenticity of websites and services before providing any information or connecting your wallet.
+* Use two-factor authentication (2FA) whenever possible to add an extra layer of security.
+* Monitor your transactions and wallet activity regularly to detect any suspicious activity.
+* Avoid clicking on unknown links or downloading attachments from unknown sources.
+* Reject transactions that you do not recognise or understand. Verify transactions are from legitimate dApps.
+* Keep your software and firmware up to date to ensure you have the latest security patches.
+* Use a reputable antivirus and anti-malware software to protect your device from infections.
+* Educate yourself about common scams and phishing tactics to stay vigilant.
+
+### **6. Address Poisoning**
+
+Also known as address spoofing, this deceptive tactic where scammers send small amounts of cryptocurrency, NFTs, or worthless tokens from a wallet that closely mimics the recipient's or a frequently used partner's address. This makes its way to transaction history. If the victim is in the habit of copying and reusing addresses from recent transactions when sending crypto, they can end up sending their funds to the scammer’s wallet.\
+It is common for crypto users to only glance at the first and last several characters of the address copied from one’s smartphone notes or transaction history, especially if this is a wallet with which one has previously interacted.
+
+**How to Avoid Address Poisoning Scams**
+
+* Double-check the address when sending crypto. Always take the time to verify the recipient’s entire address, not just the beginning or end.
+* Save frequently used addresses. Utilise wallet features to save trusted addresses and assign nicknames and QR codes to them to avoid the need for frequent copying and pasting.
+* Use name services like Ethereum Name Service (ENS), which provide shorter, more recognisable addresses that are difficult for scammers to replicate.
+* Conduct test transactions when transferring significant amounts of digital assets. Send a small amount first to make sure that the recipient address is correct.
+* Be vigilant with copying and pasting. Malware can alter clipboard content to replace your copied address with one owned by a scammer. Always recheck the address after pasting and consider typing out some characters manually.
+
+By understanding which data is important, recognising common tactics used by scammers and taking appropriate precautions users can effectively protect their wallets and funds. Always be cautious and verify the authenticity of websites and services before interacting with them. Remember, in the decentralised world of crypto, you are the primary custodian of your assets.&#x20;
+
+Stay informed, stay vigilant, and protect your investments.\
